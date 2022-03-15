@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Florian Babl
-- 👀 I’m interested in NLP, machine Learning of any kind
-- 🌱 I’m currently doing my Phd at Universitiy of the German Bundeswehr. 
+- 👀 I’m interested in NLP, Machine Learning of any kind
+- 🌱 I’m currently doing my PhD. 
 - 💞️ I’m looking to collaborate on any NLP topic. 
-- 📫 How to reach me: firstname.lastname@gmail.com
+- 📫 How to reach me: firstname.lastname12@gmail.com
 
 <!---
 bablf/bablf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
